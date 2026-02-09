@@ -93,18 +93,6 @@ The entry point of the application that initializes the system and provides the 
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve the system.
 
-## License
-
-This project is open source and available for educational purposes.
-
 ## Author
 
 **Madan-21**
-
-## Acknowledgments
-
-Built as a learning project to understand Python programming and healthcare management systems.
-
----
-
-*Developed with 🩺 for better hospital management*
